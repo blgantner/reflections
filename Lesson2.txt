@@ -1,0 +1,6 @@
+
+What happens when you initialize a repository? Why do you need to do it?
+Creates all the background files for a git tracking system.  To tell the computer this directory is the location of the repository.
+
+How is the staging area different from the working directory and the repository?  What value do you think it offers?
+It's a way to build a commit one line at a time without having to list every file in a single command line and view and modify the commit before it is commited.
