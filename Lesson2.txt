@@ -4,3 +4,9 @@ Creates all the background files for a git tracking system.  To tell the compute
 
 How is the staging area different from the working directory and the repository?  What value do you think it offers?
 It's a way to build a commit one line at a time without having to list every file in a single command line and view and modify the commit before it is commited.
+
+How can you use the stanging area to make sure you have one commit per logical change?
+Simply add the file(s) that hold that one change at a time, then commit them.
+
+What are some situations when branches would be helpful in keeping your history organized?  How would branches help?
+Working on Brents code for various permutations of the kite.
